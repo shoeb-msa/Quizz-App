@@ -1,4 +1,4 @@
-# supernatural
+# Quizz App
 
 A new Flutter project.
 
